@@ -1,0 +1,14 @@
+[13-Nov-2017 23:48:47 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Asia\Tehran' is invalid in G:\wamp\sites\partnerships\config\bootstrap.php on line 97
+[13-Nov-2017 23:48:47 UTC] PHP Stack trace:
+[13-Nov-2017 23:48:47 UTC] PHP   1. {main}() G:\wamp\sites\partnerships\webroot\index.php:0
+[13-Nov-2017 23:48:47 UTC] PHP   2. Cake\Http\Server->run() G:\wamp\sites\partnerships\webroot\index.php:37
+[13-Nov-2017 23:48:47 UTC] PHP   3. App\Application->bootstrap() G:\wamp\sites\partnerships\vendor\cakephp\cakephp\src\Http\Server.php:71
+[13-Nov-2017 23:48:47 UTC] PHP   4. require_once() G:\wamp\sites\partnerships\vendor\cakephp\cakephp\src\Http\BaseApplication.php:60
+[13-Nov-2017 23:48:47 UTC] PHP   5. date_default_timezone_set() G:\wamp\sites\partnerships\config\bootstrap.php:97
+[13-Nov-2017 23:48:48 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'Asia\Tehran' is invalid in G:\wamp\sites\partnerships\config\bootstrap.php on line 97
+[13-Nov-2017 23:48:48 UTC] PHP Stack trace:
+[13-Nov-2017 23:48:48 UTC] PHP   1. {main}() G:\wamp\sites\partnerships\webroot\index.php:0
+[13-Nov-2017 23:48:48 UTC] PHP   2. Cake\Http\Server->run() G:\wamp\sites\partnerships\webroot\index.php:37
+[13-Nov-2017 23:48:48 UTC] PHP   3. App\Application->bootstrap() G:\wamp\sites\partnerships\vendor\cakephp\cakephp\src\Http\Server.php:71
+[13-Nov-2017 23:48:48 UTC] PHP   4. require_once() G:\wamp\sites\partnerships\vendor\cakephp\cakephp\src\Http\BaseApplication.php:60
+[13-Nov-2017 23:48:48 UTC] PHP   5. date_default_timezone_set() G:\wamp\sites\partnerships\config\bootstrap.php:97
