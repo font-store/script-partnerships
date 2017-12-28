@@ -6,6 +6,7 @@
 /logs/*
 /tmp/*
 /vendor/*
+/webroot/php_errors.log
 
 # OS generated files #
 ######################
@@ -34,4 +35,4 @@ nbproject/* # NetBeans
 .sass-cache/ # Sass preprocessor
 
 /composer.lock
-/webroot/php_errors.log
+
