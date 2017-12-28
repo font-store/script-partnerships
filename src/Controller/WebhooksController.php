@@ -9,7 +9,7 @@ use App\Controller\AppController;
 *
 * @method \App\Model\Entity\Payping[] paginate($object = null, array $settings = [])
 */
-class PaypingsController extends AppController
+class WebhooksController extends AppController
 {
 
     /**
@@ -17,7 +17,7 @@ class PaypingsController extends AppController
     *
     * @return \Cake\Http\Response|void
     */
-    public function index()
+    public function payping()
     {
 
 
