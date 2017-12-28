@@ -34,3 +34,4 @@ nbproject/* # NetBeans
 .sass-cache/ # Sass preprocessor
 
 /composer.lock
+/webroot/php_errors.log
